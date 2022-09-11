@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center"> I’m RashedAlmayyas </h1>
+<h1 align="center"> I’m Mohammed-Riad </h1>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
