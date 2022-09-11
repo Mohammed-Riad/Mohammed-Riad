@@ -10,3 +10,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="php" width="45" height="45"/>…
+
+<h2> 📈 Your GitHub History</h2>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mohammed-Riad&theme=tokyonight&showicons=true)]()
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Riad&layout=compact&theme=tokyonight)
